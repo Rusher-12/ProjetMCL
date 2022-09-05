@@ -1,5 +1,5 @@
 #----------------------------------------------------------------------
-# Auteure : Marie-Claire
+# Auteure : Marie-Claire Lewandowski
 # But : Déterminer si un chiffre saisi par l'utilisateur
 # est pair ou impair.
 #----------------------------------------------------------------------
@@ -88,4 +88,5 @@ def pallindrome():
 
 #pallindrome()
 
-#Ajout d'une fonction par Dalton Labrecque
+#Ajout de la fonction Hello World (je trouve ça super important)
+print ("Hello World")

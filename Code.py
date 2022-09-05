@@ -88,4 +88,5 @@ def pallindrome():
 
 #pallindrome()
 
-#Ajout d'une fonction par Dalton Labrecque
+#Ajout fonction Hello world
+    print("Hello world")

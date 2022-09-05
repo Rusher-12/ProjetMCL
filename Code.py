@@ -1,5 +1,5 @@
 #----------------------------------------------------------------------
-# Auteure : Dalton Labrecque
+# Auteure : Marie-Claire
 # But : Déterminer si un chiffre saisi par l'utilisateur
 # est pair ou impair.
 #----------------------------------------------------------------------
@@ -87,3 +87,5 @@ def pallindrome():
         print("Il s'agit BIEN d'un pallindrome.")
 
 #pallindrome()
+
+#Ajout d'une fonction par Dalton Labrecque

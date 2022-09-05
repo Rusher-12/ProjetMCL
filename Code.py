@@ -88,8 +88,5 @@ def pallindrome():
 
 #pallindrome()
 
-#Ajout d'une fonction plus utile
-    if (compteur < 4)
-        print("Pas cool")
-    else:
-        print("Correct")
+#Ajout fonction Hello world
+    print("Hello world")
